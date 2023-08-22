@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{4D113952-258B-4F40-912A-6D567E551BDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{28217DE4-41A7-41F8-8003-1A43ECE2A339}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4D113952-258B-4F40-912A-6D567E551BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D113952-258B-4F40-912A-6D567E551BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D113952-258B-4F40-912A-6D567E551BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28217DE4-41A7-41F8-8003-1A43ECE2A339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28217DE4-41A7-41F8-8003-1A43ECE2A339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28217DE4-41A7-41F8-8003-1A43ECE2A339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28217DE4-41A7-41F8-8003-1A43ECE2A339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
